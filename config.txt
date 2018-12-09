@@ -39,4 +39,4 @@ dtoverlay=rpi-backlight
 
 # Enable the UART (/dev/ttyAMA0) on the RPi3.
 enable_uart=1
-dtoverlay=pi3-miniuart-bt
+#dtoverlay=pi3-miniuart-bt
